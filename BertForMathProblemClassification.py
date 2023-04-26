@@ -30,7 +30,7 @@ action_verbs = [word.lower() for word in action_verbs]
 
 
 def image_generation(seed):
-    stanza.download('en')
+    #stanza.download('en')
     
     # This sets up a default neural pipeline in Lang
     print(seed)

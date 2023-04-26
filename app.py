@@ -14,7 +14,7 @@ def index():
 def predict():
     problem=request.form.get('problem')
     # Appel de votre API pour obtenir le résultat du problème mathématique
-    list_output=M.image_generation(problem)
+    '''list_output=M.image_generation(problem)
     for i in range(len (list_output)):
         if list_output[i][1]==1:
             for j in range (int(list_output[i][0])-1):
@@ -24,7 +24,7 @@ def predict():
         list_output[i][1]=2
     
             
-    result = list_output
+    result = list_output'''
     return jsonify({'images': "result"})
 
 
