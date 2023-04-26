@@ -9,3 +9,4 @@ stanza
 quantulum3 
 pillow
 PyPI
+matplotlib
