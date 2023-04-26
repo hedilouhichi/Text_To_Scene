@@ -1,0 +1,9 @@
+flask
+gunicorn
+pip
+torch.nn 
+transformers
+langid
+requests
+stanza
+quantulum3 
