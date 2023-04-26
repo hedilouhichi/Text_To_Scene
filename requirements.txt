@@ -7,6 +7,6 @@ langid
 requests
 stanza
 quantulum3 
-PIL
+pillow
 io
 base64
