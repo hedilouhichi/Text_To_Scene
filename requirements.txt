@@ -8,5 +8,5 @@ requests
 stanza
 quantulum3 
 pillow
-io
+PyPI
 base64
