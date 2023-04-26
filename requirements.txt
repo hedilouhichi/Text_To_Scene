@@ -9,4 +9,3 @@ stanza
 quantulum3 
 pillow
 PyPI
-base64
