@@ -25,7 +25,7 @@ def predict():
     
             
     result = list_output
-    return jsonify({'images': result})
+    return jsonify({'images': str(result)})
 
 
 
